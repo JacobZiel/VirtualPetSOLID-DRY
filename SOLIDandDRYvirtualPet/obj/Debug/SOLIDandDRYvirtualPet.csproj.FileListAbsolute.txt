@@ -1,0 +1,7 @@
+C:\Users\Kuba\source\repos\SOLIDandDRYvirtualPet\SOLIDandDRYvirtualPet\bin\Debug\SOLIDandDRYvirtualPet.exe.config
+C:\Users\Kuba\source\repos\SOLIDandDRYvirtualPet\SOLIDandDRYvirtualPet\bin\Debug\SOLIDandDRYvirtualPet.exe
+C:\Users\Kuba\source\repos\SOLIDandDRYvirtualPet\SOLIDandDRYvirtualPet\bin\Debug\SOLIDandDRYvirtualPet.pdb
+C:\Users\Kuba\source\repos\SOLIDandDRYvirtualPet\SOLIDandDRYvirtualPet\obj\Debug\SOLIDandDRYvirtualPet.csprojAssemblyReference.cache
+C:\Users\Kuba\source\repos\SOLIDandDRYvirtualPet\SOLIDandDRYvirtualPet\obj\Debug\SOLIDandDRYvirtualPet.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\SOLIDandDRYvirtualPet\SOLIDandDRYvirtualPet\obj\Debug\SOLIDandDRYvirtualPet.exe
+C:\Users\Kuba\source\repos\SOLIDandDRYvirtualPet\SOLIDandDRYvirtualPet\obj\Debug\SOLIDandDRYvirtualPet.pdb
